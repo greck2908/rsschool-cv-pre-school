@@ -19,7 +19,7 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="google" content="notranslate">
-        <meta name="viewport" content="width=1024">
+        <meta name="viewport" content="width=1024 height=500">
 </script>
         <link href="/opensearch.xml" rel="search" type="application/opensearchdescription+xml" title="Яндекс.Переводчик">
         <link href="/icons/favicon.ico" rel="icon" sizes="16x16 32x32 48x48 64x64" type="image/vnd.microsoft.icon">
