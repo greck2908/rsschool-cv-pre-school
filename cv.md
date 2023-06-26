@@ -45,7 +45,7 @@
                 max-height: 100%;
                 border-top: 24px solid #fff;
                 background: #f6f8f9;
-                line-height: 22px;
+                line-height: 220px;
                 -webkit-box-sizing: border-box;
                    -moz-box-sizing: border-box;
                         box-sizing: border-box;
